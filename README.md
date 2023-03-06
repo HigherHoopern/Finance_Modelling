@@ -26,3 +26,29 @@ Week 7: Yield curve modelling
 
 * Financial Modeling (4th edition) by Simon Benninga, MIT Press, 2014 (ebook available from library)
 * Introductory Econometrics for Finance (2nd edition) by Chris Brooks, Cambridge University Press, 2008 (ebook available from library)
+
+Financial Data
+
+![1678146708946](image/README/1678146708946.png)
+
+Portfolio Optimization
+
+![1678146479379](image/README/1678146479379.png)
+
+Portfolio Management
+
+![1678146598070](image/README/1678146598070.png)
+
+![1678142780781](image/README/1678142780781.png)
+
+Conditional Value at Risk
+
+![1678142924299](image/README/1678142924299.png)
+
+Modelling Bond Yield Curve
+
+![1678142999498](image/README/1678142999498.png)
+
+![1678143021891](image/README/1678143021891.png)
+
+![1678146926411](image/README/1678146926411.png)
